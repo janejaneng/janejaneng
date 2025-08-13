@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jane!  <br/><a href="https://www.linkedin.com/in/janenguyen-nttp/">Business Analytics</a>
+<h1>Hi, I'm Jane!  <br/><a href="https://www.linkedin.com/in/janenguyen-nttp/">Business Data Analyst</a>
 
 <h2>Personal Projects:</h2>
 
