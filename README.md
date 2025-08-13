@@ -4,7 +4,7 @@
 
 - <b>Top US videos from 2017 to 2018 insights</b>
   - [Raw data]
-  - [Data processing in Python](https://colab.research.google.com/drive/19o3VKdPRYgxAwq2hcNRF2VMsFIq-Jrro?usp=sharing)
+  - [Data processing in Python]
   - [Processed data]
   - [Data visualising in Tableau](https://public.tableau.com/views/Top1000highestviewedvideosintheUSfrom2017to2018insights/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
