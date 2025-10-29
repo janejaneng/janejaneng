@@ -14,6 +14,6 @@
 </b>
   - [Data visualising in Tableau](https://public.tableau.com/views/Top1000highestviewedvideosintheUSfrom2017to2018insights/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
-<b>[Analysis and Prediction of Aquifer Levels Using Weather Conditions Data](https://github.com/janejaneng/Top-US-videos-from-2017-to-2018-insights)
+<b>[Analysis and Prediction of Aquifer Levels Using Weather Conditions Data](https://github.com/janejaneng/Analysis-and-Prediction-of-Aquifer-Levels-Using-Weather-Conditions-Data)
 
 <!--
